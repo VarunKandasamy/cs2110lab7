@@ -14,7 +14,7 @@ public class Book {
 
     /** Some book examples. */
     public static void main(String[] args) {
-        Book b = new Book("The Clockwork Orange");
+        Book b = new Book("A Clockwork Orange");
         b.printBook();
     }
 }
